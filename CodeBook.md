@@ -18,283 +18,281 @@ subject
 - Subject ID, 1 to 30
 
 
-tBodyAcc-mean()-X
+tBodyAcc-mean()-X (g)
 
-- mean time domain body acceleration signals on x-asix
+- mean of the mean time domain body acceleration signals on x-asix for the subject and activity specified in the first and second columns
 
 
-tBodyAcc-mean()-Y
+tBodyAcc-mean()-Y (g)
 
-- mean time domain body acceleration signals on y-asix
+- mean of the mean time domain body acceleration signals on y-asix
 
 
-tBodyAcc-mean()-Z
+tBodyAcc-mean()-Z (g)
 
-- mean time domain body acceleration signals on z-asix
+- mean of the mean time domain body acceleration signals on z-asix
 
 
-tBodyAcc-std()-X
+tBodyAcc-std()-X (g)
 
-- standard deviation of time domain body acceleration signals on x-asix
+- mean of the standard deviation of time domain body acceleration signals on x-asix
 
-tBodyAcc-std()-Y
+tBodyAcc-std()-Y (g)
 
-- standard deviation of time domain body acceleration signals on y-asix
+- mean of the standard deviation of time domain body acceleration signals on y-asix
 
-tBodyAcc-std()-Z
+tBodyAcc-std()-Z (g)
 
-- standard deviation of time domain body acceleration signals on x-asix
+- mean of the standard deviation of time domain body acceleration signals on x-asix
 
-tGravityAcc-mean()-X
+tGravityAcc-mean()-X (g)
 
-- mean time domain gravity acceleration signals on x-asix
+- mean of the mean time domain gravity acceleration signals on x-asix
 
-tGravityAcc-mean()-Y
+tGravityAcc-mean()-Y (g)
 
-- mean time domain gravity acceleration signals on y-asix
+- mean of the mean time domain gravity acceleration signals on y-asix
 
-tGravityAcc-mean()-Z
+tGravityAcc-mean()-Z (g)
 
-- mean time domain gravity acceleration signals on z-asix
+- mean of the mean time domain gravity acceleration signals on z-asix
 
-tGravityAcc-std()-X
+tGravityAcc-std()-X (g)
 
-- standard deviation of time domain gravity acceleration signals on x-asix
+- mean of the standard deviation of time domain gravity acceleration signals on x-asix
 
-tGravityAcc-std()-Y
+tGravityAcc-std()-Y (g)
 
-- standard deviation of time domain gravity acceleration signals on y-asix
+- mean of the standard deviation of time domain gravity acceleration signals on y-asix
 
-tGravityAcc-std()-Z
+tGravityAcc-std()-Z (g)
 
-- standard deviation of time domain gravity acceleration signals on z-asix
+- mean of the standard deviation of time domain gravity acceleration signals on z-asix
 
-tBodyAccJerk-mean()-X
+tBodyAccJerk-mean()-X (g)
 
-- mean time domain body acceleration jerk signals on x-asix
+- mean of the mean time domain body acceleration jerk signals on x-asix
 
-tBodyAccJerk-mean()-Y
+tBodyAccJerk-mean()-Y (g)
 
-- mean time domain body acceleration jerk signals on y-asix
+- mean of the mean time domain body acceleration jerk signals on y-asix
 
 
-tBodyAccJerk-mean()-Z
+tBodyAccJerk-mean()-Z (g)
 
-- mean time domain body acceleration jerk signals on z-asix
+- mean of the mean time domain body acceleration jerk signals on z-asix
 
-tBodyAccJerk-std()-X
+tBodyAccJerk-std()-X (g)
 
-- standard deviation of time domain body acceleration jerk signals on x-asix
+- mean of the standard deviation of time domain body acceleration jerk signals on x-asix
 
-tBodyAccJerk-std()-Y
+tBodyAccJerk-std()-Y (g)
 
-- standard deviation of time domain body acceleration jerk signals on y-asix
+- mean of the standard deviation of time domain body acceleration jerk signals on y-asix
 
-tBodyAccJerk-std()-Z
+tBodyAccJerk-std()-Z (g)
 
-- standard deviation of time domain body acceleration jerk signals on z-asix
+- mean of the standard deviation of time domain body acceleration jerk signals on z-asix
 
-tBodyGyro-mean()-X
+tBodyGyro-mean()-X (radians/second)
 
-- mean time domain body gyroscope signals on x-asix
+- mean of the mean time domain body angular velocity on x-asix
 
-tBodyGyro-mean()-Y
+tBodyGyro-mean()-Y (radians/second)
 
-- mean time domain body gyroscope signals on y-asix
+- mean of the mean time domain body angular velocity on y-asix
 
-tBodyGyro-mean()-Z
+tBodyGyro-mean()-Z (radians/second)
 
-- mean time domain body gyroscope signals on z-asix
+- mean of the mean time domain body angular velocity on z-asix
 
-tBodyGyro-std()-X
+tBodyGyro-std()-X (radians/second)
 
-- standard deviation of time domain body gyroscope signals on x-asix
+- mean of the standard deviation of time domain body angular velocity on x-asix
 
-tBodyGyro-std()-Y
+tBodyGyro-std()-Y (radians/second)
 
-- standard deviation of time domain body gyroscope signals on y-asix
+- mean of the standard deviation of time domain body angular velocity on y-asix
 
-tBodyGyro-std()-Z
+tBodyGyro-std()-Z (radians/second)
 
-- standard deviation of time domain body gyroscope signals on z-asix
+- mean of the standard deviation of time domain body angular velocity on z-asix
 
-tBodyGyroJerk-mean()-X
+tBodyGyroJerk-mean()-X (radians/second)
 
-- mean time domain body gyroscope jerk signals on x-asix
+- mean of the mean time domain body gyroscope jerk signals on x-asix
 
-tBodyGyroJerk-mean()-Y
+tBodyGyroJerk-mean()-Y (radians/second)
 
-- mean time domain body gyroscope jerk signals on y-asix
+- mean of the mean time domain body gyroscope jerk signals on y-asix
 
-tBodyGyroJerk-mean()-Z
+tBodyGyroJerk-mean()-Z (radians/second)
 
-- mean time domain body gyroscope jerk signals on z-asix
+- mean of the mean time domain body gyroscope jerk signals on z-asix
 
-tBodyGyroJerk-std()-X
+tBodyGyroJerk-std()-X (radians/second)
 
-- standard deviation of time domain body gyroscope jerk signals on x-asix
+- mean of the standard deviation of time domain body gyroscope jerk signals on x-asix
 
-tBodyGyroJerk-std()-Y
+tBodyGyroJerk-std()-Y (radians/second)
 
-- standard deviation of time domain body gyroscope jerk signals on y-asix
+- mean of the standard deviation of time domain body gyroscope jerk signals on y-asix
 
-tBodyGyroJerk-std()-Z
+tBodyGyroJerk-std()-Z (radians/second)
 
-- standard deviation of time domain body gyroscope jerk signals on z-asix
+- mean of the standard deviation of time domain body gyroscope jerk signals on z-asix
 
-tBodyAccMag-mean()
+tBodyAccMag-mean() (g)
 
-- mean magnitude of time domain body acceleration signals 
+- mean of the mean magnitude of time domain body acceleration signals 
 
-tBodyAccMag-std()
+tBodyAccMag-std() (g)
 
-- standard deviation of the magnitude of time domain body acceleration signals
+- mean of the standard deviation of the magnitude of time domain body acceleration signals
 
-tGravityAccMag-mean()
+tGravityAccMag-mean() (g)
 
-- mean magnitude of time domain gravity acceleration signals 
+- mean of the mean magnitude of time domain gravity acceleration signals 
 
-tGravityAccMag-std()
+tGravityAccMag-std() (g)
 
-- standard deviation of the magnitude of time domain gravity acceleration signals
+- mean of the standard deviation of the magnitude of time domain gravity acceleration signals
 
-tBodyAccJerkMag-mean()
+tBodyAccJerkMag-mean() (g)
 
-- mean magnitude of time domain body acceleration jerk signals 
+- mean of the mean magnitude of time domain body acceleration jerk signals 
 
-tBodyAccJerkMag-std()
+tBodyAccJerkMag-std() (g)
 
-- standard deviatin of the magnitude of time domain body acceleration jerk signals 
+- mean of the standard deviatin of the magnitude of time domain body acceleration jerk signals 
 
-tBodyGyroMag-mean()
+tBodyGyroMag-mean() (radians/second)
 
-- mean magnitude of time domain body gyroscope signals 
+- mean of the mean magnitude of time domain body angular velocity 
 
 
-tBodyGyroMag-std()
+tBodyGyroMag-std() (radians/second)
 
-- standar deviation of the magnitude of time domain body gyroscope signals 
+- mean of the standar deviation of the magnitude of time domain body angular velocity 
 
 
-tBodyGyroJerkMag-mean()
+tBodyGyroJerkMag-mean() (radians/second)
 
-- mean magnitude of time domain body gyroscope jerk signals 
+- mean of the mean magnitude of time domain body gyroscope jerk signals 
 
 
-tBodyGyroJerkMag-std()
+tBodyGyroJerkMag-std() (radians/second)
 
-- standar deviation of the magnitude of time domain body gyroscope jerk signals 
+- mean of the standar deviation of the magnitude of time domain body gyroscope jerk signals 
 
-fBodyAcc-mean()-X
+fBodyAcc-mean()-X (g)
 
-- mean frequency domain body acceleration signals on x-asix
+- mean of the mean frequency domain body acceleration signals on x-asix
 
-fBodyAcc-mean()-Y
+fBodyAcc-mean()-Y (g)
 
-- mean frequency domain body acceleration signals on y-asix
+- mean of the mean frequency domain body acceleration signals on y-asix
 
-fBodyAcc-mean()-Z
+fBodyAcc-mean()-Z (g)
 
-- mean frequency domain body acceleration signals on z-asix
+- mean of the mean frequency domain body acceleration signals on z-asix
 
-fBodyAcc-std()-X
+fBodyAcc-std()-X (g)
 
-- standard deviation of frequency domain body acceleration signals on x-asix
+- mean of the standard deviation of frequency domain body acceleration signals on x-asix
 
-fBodyAcc-std()-Y
+fBodyAcc-std()-Y (g)
 
-- standard deviation of frequency domain body acceleration signals on y-asix
+- mean of the standard deviation of frequency domain body acceleration signals on y-asix
 
-fBodyAcc-std()-Z
+fBodyAcc-std()-Z (g)
 
-- standard deviation of frequency domain body acceleration signals on x-asix
+- mean of the standard deviation of frequency domain body acceleration signals on x-asix
 
 
-fBodyAccJerk-mean()-X
+fBodyAccJerk-mean()-X (g)
 
-- mean frequency domain body acceleration jerk signals on x-asix
+- mean of the mean frequency domain body acceleration jerk signals on x-asix
 
-fBodyAccJerk-mean()-Y
+fBodyAccJerk-mean()-Y (g)
 
-- mean frequency domain body acceleration jerk signals on y-asix
+- mean of the mean frequency domain body acceleration jerk signals on y-asix
 
-fBodyAccJerk-mean()-Z
+fBodyAccJerk-mean()-Z (g)
 
-- mean frequency domain body acceleration jerk signals on z-asix
+- mean of the mean frequency domain body acceleration jerk signals on z-asix
 
-fBodyAccJerk-std()-X
+fBodyAccJerk-std()-X (g)
 
-- standard deviation of frequency domain body acceleration jerk signals on x-asix
+- mean of the standard deviation of frequency domain body acceleration jerk signals on x-asix
 
-fBodyAccJerk-std()-Y
+fBodyAccJerk-std()-Y (g)
 
-- standard deviation of frequency domain body acceleration jerk signals on y-asix
+- mean of the standard deviation of frequency domain body acceleration jerk signals on y-asix
 
-fBodyAccJerk-std()-Z
+fBodyAccJerk-std()-Z (g)
 
-- standard deviation of frequency domain body acceleration jerk signals on z-asix
+- mean of the standard deviation of frequency domain body acceleration jerk signals on z-asix
 
-fBodyGyro-mean()-X
+fBodyGyro-mean()-X (radians/second)
 
-- mean frequency domain body gyroscope signals on x-asix
+- mean of the mean frequency domain body angular velocity on x-asix
 
-fBodyGyro-mean()-Y
+fBodyGyro-mean()-Y (radians/second)
 
-- mean frequency domain body gyroscope signals on y-asix
+- mean of the mean frequency domain body angular velocity on y-asix
 
 
 
-fBodyGyro-mean()-Z
+fBodyGyro-mean()-Z (radians/second)
 
-- mean frequency domain body gyroscope signals on z-asix
+- mean of the mean frequency domain body angular velocity on z-asix
 
 
 
-fBodyGyro-std()-X
+fBodyGyro-std()-X (radians/second)
 
-- standard deviation of frequency domain body gyroscope signals on x-asix
+- mean of the standard deviation of frequency domain body angular velocity on x-asix
 
 
-fBodyGyro-std()-Y
+fBodyGyro-std()-Y (radians/second)
 
-- standard deviation of frequency domain body gyroscope signals on y-asix
+- mean of the standard deviation of frequency domain body angular velocity on y-asix
 
-fBodyGyro-std()-Z
+fBodyGyro-std()-Z (radians/second)
 
-- standard deviation of frequency domain body gyroscope signals on z-asix
+- mean of the standard deviation of frequency domain body angular velocity on z-asix
 
 
 
+fBodyAccMag-mean() (g)
 
-fBodyAccMag-mean()
+- mean of the mean magnitude of frequency domain body acceleration signals 
 
-- mean magnitude of frequency domain body acceleration signals 
+fBodyAccMag-std() (g)
 
-fBodyAccMag-std()
+- mean of the standard deviation of the magnitude of frequency domain body acceleration signals
 
-- standard deviation of the magnitude of frequency domain body acceleration signals
+fBodyBodyAccJerkMag-mean() (g)
 
-fBodyBodyAccJerkMag-mean()
+- mean of the mean magnitude of frequency domain body acceleration jerk signals 
 
-- mean magnitude of frequency domain body acceleration jerk signals 
+fBodyBodyAccJerkMag-std() (g)
 
-fBodyBodyAccJerkMag-std()
+- mean of the standard deviatin of the magnitude of frequency domain body acceleration jerk signals
 
-- standard deviatin of the magnitude of frequency domain body acceleration jerk signals
+fBodyBodyGyroMag-mean() (radians/second)
 
-fBodyBodyGyroMag-mean()
+- mean of the mean magnitude of frequency domain body angular velocity 
 
-- mean magnitude of frequency domain body gyroscope signals 
+fBodyBodyGyroMag-std() (radians/second)
 
-fBodyBodyGyroMag-std()
+- mean of the standar deviation of the magnitude of frequency domain body angular velocity 
 
-- standar deviation of the magnitude of frequency domain body gyroscope signals 
+fBodyBodyGyroJerkMag-mean() (radians/second)
 
-fBodyBodyGyroJerkMag-mean()
+- mean of the mean magnitude of frequency domain body gyroscope jerk signals 
 
-- mean magnitude of frequency domain body gyroscope jerk signals 
+fBodyBodyGyroJerkMag-std() (radians/second)
 
-fBodyBodyGyroJerkMag-std()
-
-- standar deviation of the magnitude of frequency domain body gyroscope jerk signals
-
+- mean of the standar deviation of the magnitude of frequency domain body gyroscope jerk signals
